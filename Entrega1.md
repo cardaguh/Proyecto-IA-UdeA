@@ -1,3 +1,8 @@
+<h2>Miembros del equipo</h2>
+Jose Bernardo Rueda<br>
+Andres Mauricio Hernandez Serna, c.c. 1234093777, Ingeniería Eléctrica<br>
+Carlos Daniel Agudelo Henao, c.c. 1041228651, Ingeniería de Sistemas
+
 <h2>Problema predictivo a resolver:</h2>
 
 El objetivo del proyecto es construir un modelo de clasificación de sentimientos para comentarios de redes sociales en inglés.
